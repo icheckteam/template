@@ -24,15 +24,9 @@
         "type": 4
     },
     {
-        "code": "latitude",
-        "name": "Vĩ đọ",
-        "unit": "°",
-        "type": 4
-    },
-    {
-        "code": "longitude",
-        "name": "Kinh độ",
-        "unit": "°",
-        "type": 4
+        "code": "location",
+        "name": "Vị trí",
+        "unit": "",
+        "type": 6
     }
 ]
