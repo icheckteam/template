@@ -1,0 +1,38 @@
+[
+    {
+        "code": "height",
+        "name": "Chiều cao",
+        "unit": "m",
+        "type": 4
+    },
+    {
+        "code": "weight",
+        "name": "Trọng lượng",
+        "unit": "kg",
+        "type": 4
+    },
+    {
+        "code": "temperature",
+        "name": "Nhiệt độ",
+        "unit": "°C",
+        "type": 4
+    },
+    {
+        "code": "humidity",
+        "name": "Độ ẩm",
+        "unit": "%",
+        "type": 4
+    },
+    {
+        "code": "latitude",
+        "name": "Vĩ đọ",
+        "unit": "°",
+        "type": 4
+    },
+    {
+        "code": "longitude",
+        "name": "Kinh độ",
+        "unit": "°",
+        "type": 4
+    }
+]
