@@ -39,7 +39,7 @@
             "website": "http://icheckcorp.com/",
             "schemas": [
                 {
-                    "propery": "entity.person.icheck",
+                    "property": "entity.person.icheck",
                     "attributes": [
                         { "name": "id", "type": "string" },
                         { "name": "first_name", "type": "string" },
@@ -47,7 +47,7 @@
                     ]
                 },
                 {
-                    "propery": "entity.company.icheck",
+                    "property": "entity.company.icheck",
                     "attributes": [
                         { "name": "id", "type": "string" },
                         { "name": "name", "type": "string" },
@@ -55,7 +55,7 @@
                     ]
                 },
                 {
-                    "propery": "vietgap_certificate.icheck",
+                    "property": "vietgap_certificate.icheck",
                     "attributes": [
                         { "name": "id", "type": "string" },
                         { "name": "company", "type": "string" },
