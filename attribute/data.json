@@ -51,7 +51,7 @@
                     "attributes": [
                         { "name": "id", "type": "string" },
                         { "name": "name", "type": "string" },
-                        { "name": "address", "type": "string" },
+                        { "name": "address", "type": "string" }
                     ]
                 },
                 {
@@ -65,7 +65,7 @@
                         { "name": "certificate_registration_code", "type": "string" },
                         { "name": "total_production_area", "type": "string" },
                         { "name": "product_or_group", "type": "string" },
-                        { "name": "predictive_production", "type": "string" },
+                        { "name": "predictive_production", "type": "string" }
                     ]
                 }
             ]
