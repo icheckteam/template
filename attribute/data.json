@@ -36,7 +36,7 @@
         {
             "certifier": "cosmosaccaddr146t7xjmqsjswl6nt9c383z3xpxwfs0p8ar99ka",
             "name": "Icheck Corp",
-            "website": "http://icheckcorp.com/"
+            "website": "http://icheckcorp.com/",
             "schemas": [
                 {
                     "propery": "entity.person.icheck",
