@@ -1,32 +1,74 @@
-[
-    {
-        "code": "height",
-        "name": "Chiều cao",
-        "unit": "m",
-        "type": 4
-    },
-    {
-        "code": "weight",
-        "name": "Trọng lượng",
-        "unit": "kg",
-        "type": 4
-    },
-    {
-        "code": "temperature",
-        "name": "Nhiệt độ",
-        "unit": "°C",
-        "type": 4
-    },
-    {
-        "code": "humidity",
-        "name": "Độ ẩm",
-        "unit": "%",
-        "type": 4
-    },
-    {
-        "code": "location",
-        "name": "Vị trí",
-        "unit": "",
-        "type": 6
-    }
-]
+{
+    "attributes": [
+        {
+            "code": "height",
+            "name": "Chiều cao",
+            "unit": "m",
+            "type": 4
+        },
+        {
+            "code": "weight",
+            "name": "Trọng lượng",
+            "unit": "kg",
+            "type": 4
+        },
+        {
+            "code": "temperature",
+            "name": "Nhiệt độ",
+            "unit": "°C",
+            "type": 4
+        },
+        {
+            "code": "humidity",
+            "name": "Độ ẩm",
+            "unit": "%",
+            "type": 4
+        },
+        {
+            "code": "location",
+            "name": "Vị trí",
+            "unit": "",
+            "type": 6
+        }
+    ],
+    
+    "issuer_services": [
+        {
+            "certifier": "cosmosaccaddr146t7xjmqsjswl6nt9c383z3xpxwfs0p8ar99ka",
+            "name": "Icheck Corp",
+            "website": "http://icheckcorp.com/"
+            "schemas": [
+                {
+                    "propery": "entity.person.icheck",
+                    "attributes": [
+                        { "name": "id", "type": "string" },
+                        { "name": "first_name", "type": "string" },
+                        { "name": "last_name", "type": "string" }
+                    ]
+                },
+                {
+                    "propery": "entity.company.icheck",
+                    "attributes": [
+                        { "name": "id", "type": "string" },
+                        { "name": "name", "type": "string" },
+                        { "name": "address", "type": "string" },
+                    ]
+                },
+                {
+                    "propery": "vietgap_certificate.icheck",
+                    "attributes": [
+                        { "name": "id", "type": "string" },
+                        { "name": "company", "type": "string" },
+                        { "name": "phone", "type": "string" },
+                        { "name": "email", "type": "string" },
+                        { "name": "website", "type": "string" },
+                        { "name": "certificate_registration_code", "type": "string" },
+                        { "name": "total_production_area", "type": "string" },
+                        { "name": "product_or_group", "type": "string" },
+                        { "name": "predictive_production", "type": "string" },
+                    ]
+                }
+            ]
+        }
+    ];
+}
