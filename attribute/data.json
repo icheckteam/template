@@ -37,7 +37,7 @@
             "certifier": "cosmosaccaddr178r5xtw82ethyzyn82wa8yry76nnmyr26m79ww",
             "name": "Gov ID",
             "descripiton": "Making Govornment ID simple.",
-            "website": "http://125.212.225.51:4383/",
+            "website": "http://person_testnet.certdid.com/",
             "schemas": [
                 {
                     "property": "entity.person",
@@ -48,6 +48,46 @@
                         }
                     }
                 }
+            ]
+        },
+        {
+            "certifier": "cosmosaccaddr1wkwv3tl5v8t3rzdymkhmurag55k4psudpkvw2r",
+            "name": "VietGAP",
+            "descripiton": "VietGAP, VietGAP trồng trọt, VietGAP thủy sản, VietGAHP chăn nuôi, Tiêu chuẩn VietGAP, Mô hình VietGAP, Tiêu thụ sản phẩm VietGAP, Rau sạch VietGAP, Sản phẩm VietGAP, Hướng dẫn áp dụng VietGAP, Tổ chức Chứng nhận VietGAP, Lợi ích khi áp dụng VietGAP",
+            "website": "http://vietgap_org_testnet.certdid.com",
+            "schemas": [
+            ]
+        },
+        {
+            "certifier": "cosmosaccaddr1xx74xafyu6k63rp46nm40paesy3r07wshgrlk5",
+            "name": "Icheck Application",
+            "descripiton": "Icheck Application",
+            "website": "http://icheck_corp_apply_testnet.certdid.com",
+            "schemas": [
+            ]
+        },
+        {
+            "certifier": "cosmosaccaddr1ghvvzlf5q27lrc6r7z79f8ul2xwn8d2nyvuhrf",
+            "name": "Icheck Job Certificate",
+            "descripiton": "Icheck Job Application",
+            "website": "http://icheck_corp_testnet.certdid.com",
+            "schemas": [
+            ]
+        },
+        {
+            "certifier": "cosmosaccaddr1qd762qqyqg4tkz5zeyx27l0tfursn8x4u8z70c",
+            "name": "Thrift Bank ",
+            "descripiton": "Loan Application",
+            "website": "http://thrift_bank_testnet.certdid.com",
+            "schemas": [
+            ]
+        },
+        {
+            "certifier": "cosmosaccaddr1rjyrax8adhtj5trkuyny5cz3c82sfmrt3yz5tx",
+            "name": "Hanoi University of Science and Technology",
+            "descripiton": "Hanoi University of Science and Technology",
+            "website": "http://hust_university_testnet.certdid.com",
+            "schemas": [
             ]
         }
     ]
