@@ -69,6 +69,21 @@
                     ]
                 }
             ]
+        },
+        {
+            "certifier": "cosmosaccaddr146t7xjmqsjswl6nt9c383z3xpxwfs0p8ar99ka",
+            "name": "Gov ID",
+            "website": "http://125.212.225.51:4383/",
+            "schemas": [
+                {
+                    "property": "entity.person",
+                    "attributes": [
+                        { "name": "id", "type": "string" },
+                        { "name": "first_name", "type": "string" },
+                        { "name": "last_name", "type": "string" }
+                    ]
+                }
+            ]
         }
     ]
 }
