@@ -34,54 +34,19 @@
     
     "issuer_services": [
         {
-            "certifier": "cosmosaccaddr146t7xjmqsjswl6nt9c383z3xpxwfs0p8ar99ka",
-            "name": "Icheck Corp",
-            "website": "http://icheckcorp.com/",
-            "schemas": [
-                {
-                    "property": "entity.person.icheck",
-                    "attributes": [
-                        { "name": "id", "type": "string" },
-                        { "name": "first_name", "type": "string" },
-                        { "name": "last_name", "type": "string" }
-                    ]
-                },
-                {
-                    "property": "entity.company.icheck",
-                    "attributes": [
-                        { "name": "id", "type": "string" },
-                        { "name": "name", "type": "string" },
-                        { "name": "address", "type": "string" }
-                    ]
-                },
-                {
-                    "property": "vietgap_certificate.icheck",
-                    "attributes": [
-                        { "name": "id", "type": "string" },
-                        { "name": "company", "type": "string" },
-                        { "name": "phone", "type": "string" },
-                        { "name": "email", "type": "string" },
-                        { "name": "website", "type": "string" },
-                        { "name": "certificate_registration_code", "type": "string" },
-                        { "name": "total_production_area", "type": "string" },
-                        { "name": "product_or_group", "type": "string" },
-                        { "name": "predictive_production", "type": "string" }
-                    ]
-                }
-            ]
-        },
-        {
             "certifier": "cosmosaccaddr178r5xtw82ethyzyn82wa8yry76nnmyr26m79ww",
             "name": "Gov ID",
+            "descripiton": "Making Govornment ID simple.",
             "website": "http://125.212.225.51:4383/",
             "schemas": [
                 {
                     "property": "entity.person",
-                    "attributes": [
-                        { "name": "id", "type": "string" },
-                        { "name": "first_name", "type": "string" },
-                        { "name": "last_name", "type": "string" }
-                    ]
+                    "attributes": {
+                        "end_date": {
+                            "name": "end_date",
+                            "pretty": "End Date"
+                        }
+                    }
                 }
             ]
         }
