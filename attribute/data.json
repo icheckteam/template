@@ -226,11 +226,54 @@
                     "pretty": "Danh tính công ty",
                     "attributes": [
                         {
-                            "name": "end_date",
-                            "pretty": "End Date",
-                            "source": "end_date"
+                          "type": "text",
+                          "required": true,
+                          "source": "person_first_name",
+                          "pretty": "Person First Name"
+                        },
+                        {
+                          "type": "text",
+                          "required": true,
+                          "source": "person_last_name",
+                          "pretty": "Person Last Name"
+                        },
+                        {
+                          "type": "text",
+                          "required": true,
+                          "source": "duns",
+                          "pretty": "DUNS Number"
+                        },
+                        {
+                          "type": "text",
+                          "required": true,
+                          "source": "company_name",
+                          "pretty": "Company name"
+                        },
+                        {
+                          "type": "text",
+                          "required": true,
+                          "source": "company_address",
+                          "pretty": "Address"
+                        },
+                        {
+                          "type": "text",
+                          "required": true,
+                          "source": "phone",
+                          "pretty": "Phone"
+                        },
+                        {
+                          "type": "text",
+                          "required": true,
+                          "source": "email",
+                          "pretty": "Email"
+                        },
+                        {
+                          "type": "text",
+                          "required": true,
+                          "source": "website",
+                          "pretty": "Webiste"
                         }
-                    ]
+                      ]
                 }
             ]
         }
