@@ -41,7 +41,7 @@
             "schemas": [
                 {
                     "property": "entity.person",
-                    "pretty": "Thông tin cá nhân"
+                    "pretty": "Thông tin cá nhân",
                     "attributes": {
                         "end_date": {
                             "name": "end_date",
@@ -59,7 +59,7 @@
             "schemas": [
                 {
                     "property": "livestock_certificate.vietgap",
-                    "pretty": "Chứng nhận nuôi trồng"
+                    "pretty": "Chứng nhận nuôi trồng",
                     "attributes": {
                         "end_date": {
                             "name": "end_date",
@@ -77,7 +77,7 @@
             "schemas": [
                 {
                     "property": "job_application.icheck_corp",
-                    "pretty": "Hồ sơ xin việc Icheck"
+                    "pretty": "Hồ sơ xin việc Icheck",
                     "attributes": {
                         "end_date": {
                             "name": "end_date",
@@ -95,7 +95,7 @@
             "schemas": [
                 {
                     "property": "job_certificate.icheck_corp",
-                    "pretty": "Chứng nhận làm việc tại Icheck"
+                    "pretty": "Chứng nhận làm việc tại Icheck",
                     "attributes": {
                         "end_date": {
                             "name": "end_date",
@@ -113,7 +113,7 @@
             "schemas": [
                 {
                     "property": "loan_application.thrift_bank",
-                    "pretty": "Hồ sơ vay vốn"
+                    "pretty": "Hồ sơ vay vốn",
                     "attributes": {
                         "end_date": {
                             "name": "end_date",
@@ -131,7 +131,7 @@
             "schemas": [
                 {
                     "property": "transcript.hust_university",
-                    "pretty": "Bảng điểm"
+                    "pretty": "Bảng điểm",
                     "attributes": {
                         "end_date": {
                             "name": "end_date",
