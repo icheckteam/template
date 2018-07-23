@@ -60,12 +60,13 @@
                 {
                     "property": "livestock_certificate.vietgap",
                     "pretty": "Chứng nhận nuôi trồng",
-                    "attributes": {
-                        "end_date": {
+                    "attributes": [
+                        {
                             "name": "end_date",
-                            "pretty": "End Date"
+                            "pretty": "End Date".
+                            "source": "end_date"
                         }
-                    }
+                    ]
                 }
             ]
         },
@@ -78,12 +79,13 @@
                 {
                     "property": "job_application.icheck_corp",
                     "pretty": "Hồ sơ xin việc Icheck",
-                    "attributes": {
-                        "end_date": {
+                    "attributes": [
+                        {
                             "name": "end_date",
-                            "pretty": "End Date"
+                            "pretty": "End Date".
+                            "source": "end_date"
                         }
-                    }
+                    ]
                 }
             ]
         },
@@ -96,12 +98,13 @@
                 {
                     "property": "job_certificate.icheck_corp",
                     "pretty": "Chứng nhận làm việc tại Icheck",
-                    "attributes": {
-                        "end_date": {
+                    "attributes": [
+                        {
                             "name": "end_date",
-                            "pretty": "End Date"
+                            "pretty": "End Date".
+                            "source": "end_date"
                         }
-                    }
+                    ]
                 }
             ]
         },
@@ -114,12 +117,13 @@
                 {
                     "property": "loan_application.thrift_bank",
                     "pretty": "Hồ sơ vay vốn",
-                    "attributes": {
-                        "end_date": {
+                    "attributes": [
+                        {
                             "name": "end_date",
-                            "pretty": "End Date"
+                            "pretty": "End Date".
+                            "source": "end_date"
                         }
-                    }
+                    ]
                 }
             ]
         },
@@ -132,12 +136,13 @@
                 {
                     "property": "transcript.hust_university",
                     "pretty": "Bảng điểm",
-                    "attributes": {
-                        "end_date": {
+                    "attributes": [
+                        {
                             "name": "end_date",
-                            "pretty": "End Date"
+                            "pretty": "End Date".
+                            "source": "end_date"
                         }
-                    }
+                    ]
                 }
             ]
         }
