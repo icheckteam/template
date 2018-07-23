@@ -213,37 +213,33 @@
                     "pretty": "Hồ sơ vay vốn",
                     "attributes": [
                         {
-                          "type": "hidden",
-                          "name": "legal_entity_id"
-                        },
-                        {
                           "type": "text",
                           "required": true,
-                          "name": "first_name",
+                          "source": "first_name",
                           "pretty": "First Name"
                         },
                         {
                           "type": "text",
                           "required": true,
-                          "name": "last_name",
+                          "source": "last_name",
                           "pretty": "Last Name"
                         },
                         {
                           "type": "text",
                           "required": true,
-                          "name": "employee_status",
+                          "source": "employee_status",
                           "pretty": "Employee Status"
                         },
                         {
                           "type": "text",
                           "required": true,
-                          "name": "experience",
+                          "source": "experience",
                           "pretty": "Experience"
                         },
                         {
                           "type": "text",
                           "required": true,
-                          "name": "salary_bracket",
+                          "source": "salary_bracket",
                           "pretty": "Salary Bracket"
                         }
                       ]
