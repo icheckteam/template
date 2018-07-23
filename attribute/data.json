@@ -73,8 +73,8 @@
         },
         {
             "certifier": "cosmosaccaddr1xx74xafyu6k63rp46nm40paesy3r07wshgrlk5",
-            "name": "Icheck Application",
-            "descripiton": "Icheck Application",
+            "descripiton": "Job Application (Icheck)",
+            "descripiton": "Job Application (Icheck)",
             "website": "http://icheck_corp_apply_testnet.certdid.com",
             "schemas": [
                 {
@@ -93,7 +93,7 @@
         {
             "certifier": "cosmosaccaddr1ghvvzlf5q27lrc6r7z79f8ul2xwn8d2nyvuhrf",
             "name": "Job Certificate (Icheck)",
-            "descripiton": "Job Application (Icheck)",
+            "descripiton": "Job Certificate (Icheck)",
             "website": "http://icheck_corp_testnet.certdid.com",
             "schemas": [
                 {
@@ -154,7 +154,7 @@
             "website": "http://company_testnet.certdid.com",
             "schemas": [
                 {
-                    "property": "person.company",
+                    "property": "entry.company",
                     "pretty": "Danh tính công ty",
                     "attributes": [
                         {
