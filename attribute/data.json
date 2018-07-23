@@ -130,9 +130,29 @@
                     "pretty": "Hồ sơ xin việc Icheck",
                     "attributes": [
                         {
-                            "name": "end_date",
-                            "pretty": "End Date",
-                            "source": "end_date"
+                            "type": "text",
+                            "pretty": "First Name",
+                            "source": "first_name"
+                        },{
+                            "type": "text",
+                            "pretty": "Last Name",
+                            "source": "last_name"
+                        },{
+                            "type": "text",
+                            "pretty": "Phone Number",
+                            "source": "phone_number"
+                        },{
+                            "type": "text",
+                            "pretty": "Degree",
+                            "source": "degree"
+                        },{
+                            "type": "text",
+                            "pretty": "Status",
+                            "source": "status"
+                        },{
+                            "type": "text",
+                            "pretty": "SSN",
+                            "source": "ssn"
                         }
                     ]
                 }
