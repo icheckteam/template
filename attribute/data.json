@@ -42,12 +42,12 @@
                 {
                     "property": "entity.person",
                     "pretty": "Thông tin cá nhân",
-                    "attributes": {
-                        "end_date": {
+                    "attributes": [
+                        {
                             "name": "end_date",
                             "pretty": "End Date"
                         }
-                    }
+                    ]
                 }
             ]
         },
