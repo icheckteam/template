@@ -271,7 +271,7 @@
                         {
                           "type": "text",
                           "required": true,
-                          "name": "ssn",
+                          "source": "ssn",
                           "pretty": "SSN"
                         },
                         {
