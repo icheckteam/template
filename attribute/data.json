@@ -146,6 +146,25 @@
                     ]
                 }
             ]
+        },
+        {
+            "certifier": "cosmosaccaddr12elaeqfdu2n50n2xxml4puawfxmj7ugwekuke3",
+            "name": "Sở kế hoạch và đầu tư thành phố Hà Nội",
+            "descripiton": "Sở kế hoạch và đầu tư thành phố Hà Nội",
+            "website": "http://company_testnet.certdid.com",
+            "schemas": [
+                {
+                    "property": "person.company",
+                    "pretty": "Danh tính công ty",
+                    "attributes": [
+                        {
+                            "name": "end_date",
+                            "pretty": "End Date",
+                            "source": "end_date"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
