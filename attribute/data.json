@@ -46,7 +46,7 @@
                         {
                             "type": "text",
                             "pretty": "First Name",
-                            "source": "fist_name"
+                            "source": "first_name"
                         },{
                             "type": "text",
                             "pretty": "Last Name",
@@ -71,9 +71,49 @@
                     "pretty": "Chứng nhận nuôi trồng",
                     "attributes": [
                         {
-                            "name": "end_date",
-                            "pretty": "End Date",
-                            "source": "end_date"
+                            "type": "text",
+                            "pretty": "Person First Name ",
+                            "source": "person_first_name"
+                        },{
+                            "type": "text",
+                            "pretty": "Person Last Name ",
+                            "source": "person_last_name"
+                        },{
+                            "type": "text",
+                            "pretty": "Company Name",
+                            "source": "company_name"
+                        },{
+                            "type": "text",
+                            "pretty": "Company Address",
+                            "source": "company_address"
+                        },{
+                            "type": "text",
+                            "pretty": "Phone",
+                            "source": "phone"
+                        },{
+                            "type": "text",
+                            "pretty": "Email",
+                            "source": "email"
+                        },{
+                            "type": "text",
+                            "pretty": "Website",
+                            "source": "website"
+                        },{
+                            "type": "text",
+                            "pretty": "CB registration ID",
+                            "source": "registration_id"
+                        },{
+                            "type": "text",
+                            "pretty": "Total Production Area",
+                            "source": "total_production_area"
+                        },{
+                            "type": "text",
+                            "pretty": "Product or Product group",
+                            "source": "product_or_group"
+                        },{
+                            "type": "text",
+                            "pretty": "Predictive production",
+                            "source": "predictive_production"
                         }
                     ]
                 }
