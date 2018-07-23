@@ -63,7 +63,7 @@
                     "attributes": [
                         {
                             "name": "end_date",
-                            "pretty": "End Date".
+                            "pretty": "End Date",
                             "source": "end_date"
                         }
                     ]
@@ -82,7 +82,7 @@
                     "attributes": [
                         {
                             "name": "end_date",
-                            "pretty": "End Date".
+                            "pretty": "End Date",
                             "source": "end_date"
                         }
                     ]
@@ -101,7 +101,7 @@
                     "attributes": [
                         {
                             "name": "end_date",
-                            "pretty": "End Date".
+                            "pretty": "End Date",
                             "source": "end_date"
                         }
                     ]
@@ -120,7 +120,7 @@
                     "attributes": [
                         {
                             "name": "end_date",
-                            "pretty": "End Date".
+                            "pretty": "End Date",
                             "source": "end_date"
                         }
                     ]
@@ -139,7 +139,7 @@
                     "attributes": [
                         {
                             "name": "end_date",
-                            "pretty": "End Date".
+                            "pretty": "End Date",
                             "source": "end_date"
                         }
                     ]
