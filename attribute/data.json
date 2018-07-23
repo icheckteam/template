@@ -169,11 +169,36 @@
                     "pretty": "Chứng nhận làm việc tại Icheck",
                     "attributes": [
                         {
-                            "name": "end_date",
-                            "pretty": "End Date",
-                            "source": "end_date"
+                          "type": "text",
+                          "required": true,
+                          "source": "first_name",
+                          "pretty": "First Name"
+                        },
+                        {
+                          "type": "text",
+                          "required": true,
+                          "source": "last_name",
+                          "pretty": "Last Name"
+                        },
+                        {
+                          "type": "select",
+                          "required": true,
+                          "source": "employee_status",
+                          "pretty": "Employee Status"
+                        },
+                        {
+                          "type": "select",
+                          "required": true,
+                          "source": "experience",
+                          "pretty": "Experience"
+                        },
+                        {
+                          "type": "select",
+                          "required": true,
+                          "source": "salary_bracket",
+                          "pretty": "Salary Bracket"
                         }
-                    ]
+                      ]
                 }
             ]
         },
@@ -188,11 +213,40 @@
                     "pretty": "Hồ sơ vay vốn",
                     "attributes": [
                         {
-                            "name": "end_date",
-                            "pretty": "End Date",
-                            "source": "end_date"
+                          "type": "hidden",
+                          "name": "legal_entity_id"
+                        },
+                        {
+                          "type": "text",
+                          "required": true,
+                          "name": "first_name",
+                          "pretty": "First Name"
+                        },
+                        {
+                          "type": "text",
+                          "required": true,
+                          "name": "last_name",
+                          "pretty": "Last Name"
+                        },
+                        {
+                          "type": "text",
+                          "required": true,
+                          "name": "employee_status",
+                          "pretty": "Employee Status"
+                        },
+                        {
+                          "type": "text",
+                          "required": true,
+                          "name": "experience",
+                          "pretty": "Experience"
+                        },
+                        {
+                          "type": "text",
+                          "required": true,
+                          "name": "salary_bracket",
+                          "pretty": "Salary Bracket"
                         }
-                    ]
+                      ]
                 }
             ]
         },
@@ -207,11 +261,42 @@
                     "pretty": "Bảng điểm",
                     "attributes": [
                         {
-                            "name": "end_date",
-                            "pretty": "End Date",
-                            "source": "end_date"
+                          "type": "text",
+                          "required": true,
+                          "source": "first_name",
+                          "pretty": "Student First Name"
+                        },
+                        {
+                          "type": "text",
+                          "required": true,
+                          "source": "last_name",
+                          "pretty": "Student Last Name"
+                        },
+                        {
+                          "type": "text",
+                          "required": true,
+                          "name": "ssn",
+                          "pretty": "SSN"
+                        },
+                        {
+                          "type": "select",
+                          "required": true,
+                          "source": "degree",
+                          "pretty": "Degree"
+                        },
+                        {
+                          "type": "text",
+                          "required": true,
+                          "source": "year",
+                          "pretty": "Year"
+                        },
+                        {
+                          "type": "select",
+                          "required": true,
+                          "source": "status",
+                          "pretty": "Status"
                         }
-                    ]
+                      ]
                 }
             ]
         },
