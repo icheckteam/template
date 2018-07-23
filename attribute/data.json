@@ -44,9 +44,17 @@
                     "pretty": "Thông tin cá nhân",
                     "attributes": [
                         {
-                            "name": "end_date",
-                            "pretty": "End Date",
-                            "source": "end_date"
+                            "type": "text",
+                            "pretty": "First Name",
+                            "source": "fist_name"
+                        },{
+                            "type": "text",
+                            "pretty": "Last Name",
+                            "source": "last_name"
+                        },{
+                            "type": "address",
+                            "pretty": "address",
+                            "source": "address"
                         }
                     ]
                 }
