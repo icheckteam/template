@@ -46,7 +46,7 @@
                         {
                             "name": "end_date",
                             "pretty": "End Date",
-                            "source": "end_date",
+                            "source": "end_date"
                         }
                     ]
                 }
