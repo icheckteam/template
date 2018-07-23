@@ -92,8 +92,8 @@
         },
         {
             "certifier": "cosmosaccaddr1ghvvzlf5q27lrc6r7z79f8ul2xwn8d2nyvuhrf",
-            "name": "Icheck Job Certificate",
-            "descripiton": "Icheck Job Application",
+            "name": "Job Certificate (Icheck)",
+            "descripiton": "Job Application (Icheck)",
             "website": "http://icheck_corp_testnet.certdid.com",
             "schemas": [
                 {
