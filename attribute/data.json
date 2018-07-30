@@ -37,7 +37,7 @@
             "certifier": "cosmosaccaddr178r5xtw82ethyzyn82wa8yry76nnmyr26m79ww",
             "name": "Gov ID",
             "descripiton": "Making Govornment ID simple.",
-            "website": "http://person_testnet.certdid.com/",
+            "website": "http://persontestnet.certdid.com/",
             "schemas": [
                 {
                     "property": "entity.person",
@@ -64,7 +64,7 @@
             "certifier": "cosmosaccaddr1wkwv3tl5v8t3rzdymkhmurag55k4psudpkvw2r",
             "name": "VietGAP",
             "descripiton": "VietGAP, VietGAP trồng trọt, VietGAP thủy sản, VietGAHP chăn nuôi, Tiêu chuẩn VietGAP, Mô hình VietGAP, Tiêu thụ sản phẩm VietGAP, Rau sạch VietGAP, Sản phẩm VietGAP, Hướng dẫn áp dụng VietGAP, Tổ chức Chứng nhận VietGAP, Lợi ích khi áp dụng VietGAP",
-            "website": "http://vietgap_org_testnet.certdid.com",
+            "website": "http://vietgaporgtestnet.certdid.com",
             "schemas": [
                 {
                     "property": "livestock_certificate.vietgap",
@@ -123,7 +123,7 @@
             "certifier": "cosmosaccaddr1xx74xafyu6k63rp46nm40paesy3r07wshgrlk5",
             "name": "Job Application (Icheck)",
             "descripiton": "Job Application (Icheck)",
-            "website": "http://icheck_corp_apply_testnet.certdid.com",
+            "website": "http://icheckcorpapplytestnet.certdid.com",
             "schemas": [
                 {
                     "property": "job_application.icheck_corp",
@@ -162,7 +162,7 @@
             "certifier": "cosmosaccaddr1ghvvzlf5q27lrc6r7z79f8ul2xwn8d2nyvuhrf",
             "name": "Job Certificate (Icheck)",
             "descripiton": "Job Certificate (Icheck)",
-            "website": "http://icheck_corp_testnet.certdid.com",
+            "website": "http://icheckcorptestnet.certdid.com",
             "schemas": [
                 {
                     "property": "job_certificate.icheck_corp",
@@ -206,7 +206,7 @@
             "certifier": "cosmosaccaddr1qd762qqyqg4tkz5zeyx27l0tfursn8x4u8z70c",
             "name": "Thrift Bank ",
             "descripiton": "Loan Application",
-            "website": "http://thrift_bank_testnet.certdid.com",
+            "website": "http://thriftbanktestnet.certdid.com",
             "schemas": [
                 {
                     "property": "loan_application.thrift_bank",
@@ -250,7 +250,7 @@
             "certifier": "cosmosaccaddr1rjyrax8adhtj5trkuyny5cz3c82sfmrt3yz5tx",
             "name": "Hanoi University of Science and Technology",
             "descripiton": "Hanoi University of Science and Technology",
-            "website": "http://hust_university_testnet.certdid.com",
+            "website": "http://hustuniversitytestnet.certdid.com",
             "schemas": [
                 {
                     "property": "transcript.hust_university",
@@ -300,7 +300,7 @@
             "certifier": "cosmosaccaddr12elaeqfdu2n50n2xxml4puawfxmj7ugwekuke3",
             "name": "Sở kế hoạch và đầu tư thành phố Hà Nội",
             "descripiton": "Sở kế hoạch và đầu tư thành phố Hà Nội",
-            "website": "http://company_testnet.certdid.com",
+            "website": "http://companytestnet.certdid.com",
             "schemas": [
                 {
                     "property": "entry.company",
