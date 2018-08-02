@@ -120,6 +120,61 @@
             ]
         },
         {
+            "certifier": "cosmosaccaddr1wkwv3tl5v8t3rzdymkhmurag55k4psudpkvw2r",
+            "name": "Cục An Toàn Thực Phẩm",
+            "descripiton": "",
+            "website": "http://vfatestnet.certdid.com",
+            "schemas": [
+                {
+                    "property": "food_safety.vfa",
+                    "pretty": "Chứng nhận đạt tiêu chuẩn an toàn thực phẩm",
+                    "attributes": [
+                        {
+                            "type": "text",
+                            "pretty": "Tên chủ sở hữu",
+                            "source": "person_first_name"
+                        },{
+                            "type": "text",
+                            "pretty": "Họ chủ sở hữu",
+                            "source": "person_last_name"
+                        },{
+                            "type": "text",
+                            "pretty": "Tên công ty",
+                            "source": "company_name"
+                        },{
+                            "type": "text",
+                            "pretty": "Địa chỉ công ty",
+                            "source": "company_address"
+                        },{
+                            "type": "text",
+                            "pretty": "Số điện thoại",
+                            "source": "phone"
+                        },{
+                            "type": "text",
+                            "pretty": "Email",
+                            "source": "email"
+                        },{
+                            "type": "text",
+                            "pretty": "Website",
+                            "source": "website"
+                        },{
+                            "type": "text",
+                            "pretty": "CB registration ID",
+                            "source": "registration_id"
+                        },{
+                            "type": "text",
+                            "pretty": "Sản phẩm",
+                            "source": "product_or_group"
+                        },{
+                            "type": "text",
+                            "pretty": "Sản lượng (con/ngàg)",
+                            "source": "predictive_production"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "certifier": "cosmosaccaddr1xx74xafyu6k63rp46nm40paesy3r07wshgrlk5",
             "name": "Job Application (Icheck)",
             "descripiton": "Job Application (Icheck)",
