@@ -118,6 +118,64 @@
                     ]
                 }
             ]
+        },{
+            "certifier": "cosmosaccaddr1kslqujcau7f9ucr4q239f7lexvn297r066dh5t",
+            "name": "Gs1 Ngôn ngữ Thương mại Toàn cầu",
+            "descripiton": "Gs1 Ngôn ngữ Thương mại Toàn cầu",
+            "website": "http://gs1testnet.certdid.com",
+            "schemas": [
+                {
+                    "property": "livestock_certificate.vietgap",
+                    "pretty": "GS1 Chứng nhận tiền tố công ty",
+                    "attributes": [
+                        {
+                            "type": "text",
+                            "pretty": "Person First Name ",
+                            "source": "person_first_name"
+                        },{
+                            "type": "text",
+                            "pretty": "Person Last Name ",
+                            "source": "person_last_name"
+                        },{
+                            "type": "text",
+                            "pretty": "Company Name",
+                            "source": "company_name"
+                        },{
+                            "type": "text",
+                            "pretty": "Company Address",
+                            "source": "company_address"
+                        },{
+                            "type": "text",
+                            "pretty": "Phone",
+                            "source": "phone"
+                        },{
+                            "type": "text",
+                            "pretty": "Email",
+                            "source": "email"
+                        },{
+                            "type": "text",
+                            "pretty": "Website",
+                            "source": "website"
+                        },{
+                            "type": "text",
+                            "pretty": "CB registration ID",
+                            "source": "registration_id"
+                        },{
+                            "type": "text",
+                            "pretty": "UPC Company Prefix",
+                            "source": "upc_company_prefix"
+                        },{
+                            "type": "text",
+                            "pretty": "GS1 Company Prefix",
+                            "source": "gs1_company_prefix"
+                        },{
+                            "type": "text",
+                            "pretty": "Legal Entity Gln",
+                            "source": "legal_entity_gln"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "certifier": "cosmosaccaddr1eea8skh9pa9mcpcp4wfras5ntgcy4vhm2dy69t",
